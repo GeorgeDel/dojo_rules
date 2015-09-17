@@ -2,5 +2,6 @@ introduction - bla bla bla
 Code School path: JavaScript
  *JavaScript
  *Ruby
- *check
+ *c#
  *Killing history using git rebase
+
